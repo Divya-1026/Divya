@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Final-year Computer Science Engineering student.<br>Currently working on Python and Java.
+I am a Final-year Computer Science Engineering student.<br>Currently working on Java Full-Stack Development.
 
 
 ## 🌐 Socials:
